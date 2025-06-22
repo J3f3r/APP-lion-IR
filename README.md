@@ -93,7 +93,7 @@ Este projeto visa:
 ---
 
 ## 📸 Prints
-![Print do menu Informes](C:\Users\Computador\Desktop\Dio Excell\APPlionIR\imagens\print.png)
+![Print do menu Informes](imagens/print.png)
 segue em anexo a pasta imagens com mais prints
 ---
 
