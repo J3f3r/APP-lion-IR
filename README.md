@@ -93,7 +93,6 @@ Este projeto visa:
 ---
 
 ## 📸 Prints
-![Print do menu Informes](imagens/2025-06-21(6).png)
 segue em anexo a pasta imagens com mais prints
 ---
 
